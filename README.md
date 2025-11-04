@@ -46,3 +46,7 @@
 <p>扫描下方二维码关注公众号：Datawhale</p>
 <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
 </div>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/agentic-ai&type=date&legend=top-left)](https://www.star-history.com/#datawhalechina/agentic-ai&type=date&legend=top-left)
